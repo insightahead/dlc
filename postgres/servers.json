@@ -1,0 +1,14 @@
+{
+    "Servers": {
+      "1": {
+        "Name": "DLC Database Server",
+        "Group": "DLC Servers Group",
+        "Port": 5503,
+        "Username": "postgres",
+        "PassFile": "/pgadmin4/pgpass",
+        "Host": "db",
+        "MaintenanceDB": "postgres"
+      }
+    }
+  }
+  
