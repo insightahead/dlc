@@ -1,0 +1,355 @@
+country_locale_id,country_language_name,country_name,supported_course_language
+es_CU,Spanish,CUBA,false
+hif_FJ,Fiji Hindi,FIJI,false
+ar_IQ,Arabic,IRAQ,false
+ckb_IQ,Central Kurdish,IRAQ,false
+bm_ML,Bambara,MALI,false
+son_ML,Songhai languages,MALI,false
+niu_NU,Niuean,NIUE,false
+ar_OM,Arabic,OMAN,false
+agr_PE,Aguaruna,PERU,false
+ayc_PE,Southern Aymara,PERU,false
+ay_PE,Aymara,PERU,false
+es_PE,Spanish,PERU,false
+quy_PE,Ayacucho Quechua,PERU,false
+quz_PE,Cusco Quechua,PERU,false
+nl_AW,Dutch,ARUBA,false
+pap_AW,Papiamento,ARUBA,false
+es_CL,Spanish,CHILE,true
+bo_CN,Tibetan,CHINA,false
+ug_CN,Uighur,CHINA,false
+zh_CN,Chinese,CHINA,true
+ar_EG,Arabic,EGYPT,false
+ak_GH,Akan,GHANA,false
+ht_HT,Haitian,HAITI,true
+anp_IN,Angika,INDIA,false
+ar_IN,Arabic,INDIA,false
+as_IN,Assamese,INDIA,false
+bhb_IN,Bhili,INDIA,false
+bho_IN,Bhojpuri,INDIA,false
+bn_IN,Bengali,INDIA,true
+bo_IN,Tibetan,INDIA,false
+brx_IN,Bodo (India),INDIA,false
+doi_IN,Dogri (macrolanguage),INDIA,false
+en_IN,English,INDIA,true
+gu_IN,Gujarati,INDIA,true
+hi_IN,Hindi,INDIA,true
+hne_IN,Chhattisgarhi,INDIA,false
+kn_IN,Kannada,INDIA,true
+kok_IN,Konkani (macrolanguage),INDIA,false
+ks_IN,Kashmiri,INDIA,false
+ks_IN@devanagari,Kashmiri,INDIA,false
+mag_IN,Magahi,INDIA,false
+mai_IN,Maithili,INDIA,false
+mjw_IN,Karbi,INDIA,false
+ml_IN,Malayalam,INDIA,true
+mni_IN,Manipuri,INDIA,false
+mr_IN,Marathi,INDIA,true
+or_IN,Oriya,INDIA,false
+pa_IN,Panjabi,INDIA,true
+raj_IN,Rajasthani,INDIA,false
+sa_IN,Sanskrit,INDIA,true
+sat_IN,Santali,INDIA,false
+sd_IN,Sindhi,INDIA,false
+sd_IN@devanagari,Sindhi,INDIA,false
+ta_IN,Tamil,INDIA,true
+tcy_IN,Tulu,INDIA,false
+te_IN,Telugu,INDIA,true
+ur_IN,Urdu,INDIA,false
+ca_IT,Catalan,ITALY,false
+de_IT,German,ITALY,false
+fur_IT,Friulian,ITALY,false
+it_IT,Italian,ITALY,true
+it_IT@euro,Italian,ITALY,false
+lij_IT,Ligurian,ITALY,false
+sc_IT,Sardinian,ITALY,false
+sq_IT,Albanian,ITALY,false
+ja_JP,Japanese,JAPAN,true
+om_KE,Oromo,KENYA,false
+so_KE,Somali,KENYA,false
+sw_KE,Swahili (macrolanguage),KENYA,true
+mt_MT,Maltese,MALTA,true
+bho_NP,Bhojpuri,NEPAL,false
+mai_NP,Maithili,NEPAL,false
+ne_NP,Nepali,NEPAL,true
+the_NP,Chitwania Tharu,NEPAL,false
+ar_QA,Arabic,QATAR,false
+sm_WS,Samoan,SAMOA,false
+an_ES,Aragonese,SPAIN,false
+ast_ES,Asturian,SPAIN,false
+ca_ES,Catalan,SPAIN,true
+ca_ES@euro,Catalan,SPAIN,false
+ca_ES@valencia,Catalan,SPAIN,false
+es_ES,Spanish,SPAIN,true
+es_ES@euro,Spanish,SPAIN,false
+eu_ES,Basque,SPAIN,true
+eu_ES@euro,Basque,SPAIN,false
+gl_ES,Galician,SPAIN,true
+gl_ES@euro,Galician,SPAIN,false
+ar_SD,Arabic,SUDAN,false
+to_TO,Tonga (Tonga Islands),TONGA,false
+ar_YE,Arabic,YEMEN,false
+dz_BT,Dzongkha,BHUTAN,false
+pt_BR,Portuguese,BRAZIL,true
+en_CA,English,CANADA,false
+fr_CA,French,CANADA,true
+ik_CA,Inupiaq,CANADA,false
+iu_CA,Inuktitut,CANADA,false
+shs_CA,Shuswap,CANADA,false
+el_CY,Modern Greek (1453-),CYPRUS,false
+tr_CY,Turkish,CYPRUS,false
+br_FR,Breton,FRANCE,false
+br_FR@euro,Breton,FRANCE,false
+ca_FR,Catalan,FRANCE,false
+fr_FR,French,FRANCE,true
+fr_FR@euro,French,FRANCE,false
+ia_FR,Interlingua (International Auxiliary Language Association),FRANCE,false
+oc_FR,Occitan (post 1500),FRANCE,false
+el_GR,Modern Greek (1453-),GREECE,true
+el_GR@euro,Modern Greek (1453-),GREECE,false
+sq_GR,Albanian,GREECE,false
+en_IL,English,ISRAEL,false
+he_IL,Hebrew,ISRAEL,true
+ar_JO,Arabic,JORDAN,false
+sq_KV,Albanian,KOSOVO,false
+ar_KW,Arabic,KUWAIT,false
+lv_LV,Latvian,LATVIA,true
+es_MX,Spanish,MEXICO,true
+hus_MX,Huastec,MEXICO,false
+nah_MX,Nahuatl languages,MEXICO,false
+nhn_MX,Central Nahuatl,MEXICO,false
+nb_NO,Norwegian Bokmål,NORWAY,true
+nn_NO,Norwegian Nynorsk,NORWAY,true
+se_NO,Northern Sami,NORWAY,true
+es_PA,Spanish,PANAMA,false
+csb_PL,Kashubian,POLAND,false
+pl_PL,Polish,POLAND,true
+szl_PL,Silesian,POLAND,false
+rw_RW,Kinyarwanda,RWANDA,false
+sq_RS,Albanian,SERBIA,false
+sr_RS,Serbian,SERBIA,true
+sr_RS@latin,Serbian,SERBIA,false
+sv_SE,Swedish,SWEDEN,true
+cmn_TW,Mandarin Chinese,TAIWAN,false
+hak_TW,Hakka Chinese,TAIWAN,false
+lzh_TW,Literary Chinese,TAIWAN,false
+nan_TW,Min Nan Chinese,TAIWAN,false
+nan_TW@latin,Min Nan Chinese,TAIWAN,false
+zh_TW,Chinese,TAIWAN,true
+ku_TR,Kurdish,TURKEY,true
+sq_TR,Albanian,TURKEY,false
+tr_TR,Turkish,TURKEY,true
+bi_TV,Bislama,TUVALU,false
+lg_UG,Ganda,UGANDA,false
+bem_ZM,Bemba (Zambia),ZAMBIA,false
+en_ZM,English,ZAMBIA,false
+sq_AL,Albanian,ALBANIA,true
+ar_DZ,Arabic,ALGERIA,false
+ber_DZ,Berber languages,ALGERIA,false
+kab_DZ,Kabyle,ALGERIA,false
+ca_AD,Catalan,ANDORRA,false
+hy_AM,Armenian,ARMENIA,true
+de_AT,German,AUSTRIA,false
+de_AT@euro,German,AUSTRIA,false
+ar_BH,Arabic,BAHRAIN,false
+be_BY,Belarusian,BELARUS,false
+be_BY@latin,Belarusian,BELARUS,false
+de_BE,German,BELGIUM,false
+de_BE@euro,German,BELGIUM,false
+fr_BE,French,BELGIUM,false
+fr_BE@euro,French,BELGIUM,false
+li_BE,Limburgan,BELGIUM,false
+nl_BE,Dutch,BELGIUM,true
+nl_BE@euro,Dutch,BELGIUM,false
+wa_BE,Walloon,BELGIUM,false
+wa_BE@euro,Walloon,BELGIUM,false
+hr_HR,Croatian,CROATIA,true
+cs_CZ,Czech,CZECHIA,true
+da_DK,Danish,DENMARK,true
+en_DK,English,DENMARK,false
+es_EC,Spanish,ECUADOR,false
+aa_ER,Afar,ERITREA,false
+aa_ER@saaho,Afar,ERITREA,false
+byn_ER,Bilin,ERITREA,false
+gez_ER,Geez,ERITREA,false
+gez_ER@abegede,Geez,ERITREA,false
+ti_ER,Tigrinya,ERITREA,false
+tig_ER,Tigre,ERITREA,false
+et_EE,Estonian,ESTONIA,true
+fi_FI,Finnish,FINLAND,true
+fi_FI@euro,Finnish,FINLAND,false
+sv_FI,Swedish,FINLAND,false
+sv_FI@euro,Swedish,FINLAND,false
+ka_GE,Georgian,GEORGIA,true
+de_DE,German,GERMANY,true
+de_DE@euro,German,GERMANY,false
+dsb_DE,Lower Sorbian,GERMANY,false
+fy_DE,Western Frisian,GERMANY,false
+hsb_DE,Upper Sorbian,GERMANY,false
+nds_DE,Low German,GERMANY,false
+hu_HU,Hungarian,HUNGARY,true
+is_IS,Icelandic,ICELAND,true
+en_IE,English,IRELAND,false
+en_IE@euro,English,IRELAND,false
+ga_IE,Irish,IRELAND,true
+ga_IE@euro,Irish,IRELAND,false
+ar_LB,Arabic,LEBANON,false
+ar_MA,Arabic,MOROCCO,false
+ber_MA,Berber languages,MOROCCO,false
+rif_MA,Tarifit,MOROCCO,false
+mnw_MM,Mon,MYANMAR,false
+my_MM,Burmese,MYANMAR,true
+shn_MM,Shan,MYANMAR,false
+en_NG,English,NIGERIA,false
+ha_NG,Hausa,NIGERIA,false
+ig_NG,Igbo,NIGERIA,false
+yo_NG,Yoruba,NIGERIA,false
+ro_RO,Romanian,ROMANIA,true
+ff_SN,Fulah,SENEGAL,false
+wo_SN,Wolof,SENEGAL,false
+so_SO,Somali,SOMALIA,true
+ar_TN,Arabic,TUNISIA,false
+crh_UA,Crimean Tatar,UKRAINE,false
+ru_UA,Russian,UKRAINE,false
+uk_UA,Ukrainian,UKRAINE,true
+es_UY,Spanish,URUGUAY,false
+bi_VU,Bislama,VANUATU,false
+en_BW,English,BOTSWANA,false
+bg_BG,Bulgarian,BULGARIA,true
+km_KH,Central Khmer,CAMBODIA,true
+es_CO,Spanish,COLOMBIA,true
+pap_CW,Papiamento,CURAÇAO,false
+aa_DJ,Afar,DJIBOUTI,false
+so_DJ,Somali,DJIBOUTI,false
+aa_ET,Afar,ETHIOPIA,false
+am_ET,Amharic,ETHIOPIA,false
+gez_ET,Geez,ETHIOPIA,false
+gez_ET@abegede,Geez,ETHIOPIA,false
+om_ET,Oromo,ETHIOPIA,false
+sid_ET,Sidamo,ETHIOPIA,false
+so_ET,Somali,ETHIOPIA,false
+ti_ET,Tigrinya,ETHIOPIA,false
+wal_ET,Wolaytta,ETHIOPIA,false
+es_HN,Spanish,HONDURAS,false
+ms_MY,Malay (macrolanguage),MALAYSIA,true
+dv_MV,Dhivehi,MALDIVES,false
+mn_MN,Mongolian,MONGOLIA,true
+pa_PK,Panjabi,PAKISTAN,false
+ur_PK,Urdu,PAKISTAN,true
+es_PY,Spanish,PARAGUAY,false
+gn_PY@Latin,Guarani,PARAGUAY,false
+pt_PT,Portuguese,PORTUGAL,true
+pt_PT@euro,Portuguese,PORTUGAL,false
+sk_SK,Slovak,SLOVAKIA,true
+sl_SI,Slovenian,SLOVENIA,true
+th_TH,Thai,THAILAND,true
+vi_VN,Vietnamese,VIET NAM,true
+en_ZW,English,ZIMBABWE,false
+es_AR,Spanish,ARGENTINA,false
+en_AU,English,AUSTRALIA,false
+kl_GL,Kalaallisut,GREENLAND,false
+es_GT,Spanish,GUATEMALA,false
+en_HK,English,HONG KONG,false
+yue_HK,Yue Chinese,HONG KONG,false
+zh_HK,Chinese,HONG KONG,true
+id_ID,Indonesian,INDONESIA,true
+lt_LT,Lithuanian,LITHUANIA,true
+sgs_LT,Samogitian,LITHUANIA,false
+mfe_MU,Morisyen,MAURITIUS,false
+es_NI,Spanish,NICARAGUA,false
+miq_NI,Mískito,NICARAGUA,false
+en_SG,English,SINGAPORE,false
+zh_SG,Chinese,SINGAPORE,false
+si_LK,Sinhala,SRI LANKA,false
+ta_LK,Tamil,SRI LANKA,false
+az_AZ,Azerbaijani,AZERBAIJAN,true
+bn_BD,Bengali,BANGLADESH,false
+es_CR,Spanish,COSTA RICA,false
+kk_KZ,Kazakh,KAZAKHSTAN,true
+ky_KG,Kirghiz,KYRGYZSTAN,false
+de_LU,German,LUXEMBOURG,false
+de_LU@euro,German,LUXEMBOURG,false
+fr_LU,French,LUXEMBOURG,false
+fr_LU@euro,French,LUXEMBOURG,false
+lb_LU,Luxembourgish,LUXEMBOURG,false
+mg_MG,Malagasy,MADAGASCAR,true
+sq_ME,Albanian,MONTENEGRO,false
+sr_ME,Serbian,MONTENEGRO,false
+en_SC,English,SEYCHELLES,false
+tg_TJ,Tajik,TAJIKISTAN,true
+uz_UZ,Uzbek,UZBEKISTAN,true
+uz_UZ@cyrillic,Uzbek,UZBEKISTAN,false
+ps_AF,Pushto,AFGHANISTAN,true
+es_SV,Spanish,EL SALVADOR,false
+fy_NL,Western Frisian,NETHERLANDS,true
+li_NL,Limburgan,NETHERLANDS,true
+nds_NL,Low German,NETHERLANDS,false
+nl_NL,Dutch,NETHERLANDS,true
+nl_NL@euro,Dutch,NETHERLANDS,false
+en_NZ,English,NEW ZEALAND,false
+mi_NZ,Maori,NEW ZEALAND,false
+niu_NZ,Niuean,NEW ZEALAND,false
+en_PH,English,PHILIPPINES,false
+fil_PH,Filipino,PHILIPPINES,false
+tl_PH,Tagalog,PHILIPPINES,true
+es_PR,Spanish,PUERTO RICO,false
+de_CH,German,SWITZERLAND,false
+fr_CH,French,SWITZERLAND,false
+it_CH,Italian,SWITZERLAND,false
+wae_CH,Walser,SWITZERLAND,false
+ar_SA,Arabic,SAUDI ARABIA,false
+af_ZA,Afrikaans,SOUTH AFRICA,true
+en_ZA,English,SOUTH AFRICA,false
+nr_ZA,South Ndebele,SOUTH AFRICA,false
+nso_ZA,Pedi,SOUTH AFRICA,false
+ss_ZA,Swati,SOUTH AFRICA,false
+st_ZA,Southern Sotho,SOUTH AFRICA,false
+tn_ZA,Tswana,SOUTH AFRICA,false
+ts_ZA,Tsonga,SOUTH AFRICA,false
+ve_ZA,Venda,SOUTH AFRICA,false
+xh_ZA,Xhosa,SOUTH AFRICA,true
+zu_ZA,Zulu,SOUTH AFRICA,true
+ar_SS,Arabic,SOUTH SOUDAN,false
+tk_TM,Turkmen,TURKMENISTAN,false
+fo_FO,Faroese,FAROE ISLANDS,true
+de_LI,German,LIECHTENSTEIN,false
+cy_GB,Welsh,UNITED KINGDOM,true
+en_GB,English,UNITED KINGDOM,true
+gd_GB,Scottish Gaelic,UNITED KINGDOM,false
+gv_GB,Manx,UNITED KINGDOM,false
+kw_GB,Cornish,UNITED KINGDOM,false
+mh_MH,Marshallese,MARSHALL ISLANDS,false
+tpi_PG,Tok Pisin,PAPUA NEW GUINEA,false
+yuw_PG,Yau (Morobe Province),PAPUA NEW GUINEA,false
+es_DO,Spanish,DOMINICAN REPUBLIC,false
+ko_KR,Korean,"KOREA, REPUBLIC OF",true
+ce_RU,Chechen,RUSSIAN FEDERATION,false
+cv_RU,Chuvash,RUSSIAN FEDERATION,false
+mhr_RU,Eastern Mari,RUSSIAN FEDERATION,false
+myv_RU,Erzya,RUSSIAN FEDERATION,false
+myv_RU@cyrillic,Erzya,RUSSIAN FEDERATION,false
+os_RU,Ossetian,RUSSIAN FEDERATION,false
+ru_RU,Russian,RUSSIAN FEDERATION,true
+sah_RU,Yakut,RUSSIAN FEDERATION,false
+tt_RU,Tatar,RUSSIAN FEDERATION,true
+tt_RU@iqtelif,Tatar,RUSSIAN FEDERATION,false
+en_AG,English,ANTIGUA AND BARBUDA,false
+pap_AN,Papiamento,NETHERLANDS ANTILLES,false
+ar_SY,Arabic,SYRIAN ARAB REPUBLIC,false
+ar_AE,Arabic,UNITED ARAB EMIRATES,false
+bs_BA,Bosnian,BOSNIA AND HERZEGOVINA,true
+ar_LY,Arabic,LIBYAN ARAB JAMAHIRIYA,false
+chr_US,Cherokee,UNITED STATES OF AMERICA,false
+en_US,English,UNITED STATES OF AMERICA,true
+es_US,Spanish,UNITED STATES OF AMERICA,false
+unm_US,Unami,UNITED STATES OF AMERICA,false
+yi_US,Yiddish,UNITED STATES OF AMERICA,false
+az_IR,Azerbaijani,"IRAN, ISLAMIC REPUBLIC OF",false
+fa_IR,Persian,"IRAN, ISLAMIC REPUBLIC OF",true
+sw_TZ,Swahili (macrolanguage),"TANZANIA, UNITED REPUBLIC OF",false
+es_BO,Spanish,"BOLIVIA, PLURINATIONAL STATE OF",false
+lo_LA,Lao,LAO PEOPLE'S DEMOCRATIC REPUBLIC,false
+es_VE,Spanish,"VENEZUELA, BOLIVARIAN REPUBLIC OF",true
+ln_CD,Lingala,"CONGO, THE DEMOCRATIC REPUBLIC OF THE",false
+mk_MK,Macedonian,"MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",true
+sq_MK,Albanian,"MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",false

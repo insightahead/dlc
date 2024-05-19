@@ -1,0 +1,30 @@
+currency_id,currency_name,currency_sign
+USD,"American Dollar",$
+AUD,"Australian Dollar",au$
+BRL,"Brazilian Real",R$
+GBP,"British Pound",£
+CAD,"Canadian Dollar",ca$
+CLP,"Chilean Peso",clp
+COP,"Colombian Peso",col$
+EGP,"Egyptian Pound",e£
+EUR,"Euro",€
+INR,"Indian Rupee",₹
+IDR,"Indonesian Rupiah",rp
+ILS,"Israel Shekel",₪
+JPY,"Japanese Yen",¥
+MYR,"Malaysian Ringgit",rm
+MXN,"Mexican Peso",me$
+NGN,"Nigerian Naira",₦
+NOK,"Norway Krone",kr
+PEN,"Peruvian Sol",s/.
+PHP,"Philippine Peso",₱
+PLN,"Polish Zloty",zł
+RON,"Romanian Lei",ron
+SGD,"Singaporean Dollar",s$
+ZAR,"South African Rand",r
+KRW,"South Korea Won",₩
+TWD,"Taiwan New Dollar",nt$
+THB,"Thailand Baht",฿
+TRY,"Turkish Lira",₺
+RUB,"Russian Ruble",₽
+VND,"Vietnam Dong",₫

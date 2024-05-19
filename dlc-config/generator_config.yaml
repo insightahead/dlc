@@ -1,0 +1,137 @@
+email:
+  domains:
+    - "gmail.com"
+    - "yahoo.com"
+    - "hotmail.com"
+    - "aol.com"
+    - "mail.com"
+    - "email.com"
+    - "usa.com"
+    - "post.com"
+    - "outlook.com"
+    - "protonmail.com"
+    - "icloud.com"
+    - "zoho.com"
+    - "gmx.com"
+    - "yandex.com"
+    - "tutanota.com"
+    - "inbox.lv"
+
+
+age_distribution:
+  "18-24": 20.11
+  "25-34": 37.28
+  "35-44": 23.02
+  "45-54": 9.34
+  "55-64": 3.8
+  "65-99": 1.31
+  "N/A": 5.00
+
+major_locales_distribution:
+  en_US: 0.1601
+  en_IN: 0.1946
+  pt_BR: 0.0525
+  tr_TR: 0.0349
+  en_GB: 0.0291
+  de_DE: 0.0834
+  en_CA: 0.0399
+  fr_FR: 0.0334
+  pl_PL: 0.0277
+  nl_NL: 0.0271
+  en_AU: 0.0236
+  ja_JP: 0.0256
+
+course_language_distribution:
+  en_US: 0.59
+  pt_PT: 0.09
+  es_ES: 0.08
+  tr_TR: 0.04
+  ja_JP: 0.035
+
+
+all_locales:
+  - ar_AA
+  - ar_AE
+  - ar_BH
+  - ar_EG
+  - ar_JO
+  - ar_PS
+  - ar_SA
+  - az_AZ
+  - bg_BG
+  - bn_BD
+  - bs_BA
+  - cs_CZ
+  - da_DK
+  - de
+  - de_AT
+  - de_CH
+  - de_DE
+  - dk_DK
+  - el_CY
+  - el_GR
+  - en
+  - en_AU
+  - en_CA
+  - en_GB
+  - en_IE
+  - en_IN
+  - en_NZ
+  - en_PH
+  - en_TH
+  - en_US
+  - es
+  - es_CA
+  - es_CL
+  - es_CO
+  - es_ES
+  - es_MX
+  - et_EE
+  - fa_IR
+  - fi_FI
+  - fil_PH
+  - fr_CA
+  - fr_CH
+  - fr_FR
+  - fr_CA
+  - ga_IE
+  - he_IL
+  - hi_IN
+  - hr_HR
+  - hu_HU
+  - hy_AM
+  - id_ID
+  - it_CH
+  - it_IT
+  - ja_JP
+  - ka_GE
+  - ko_KR
+  - la
+  - lb_LU
+  - lt_LT
+  - lv_LV
+  - mt_MT
+  - ne_NP
+  - nl_BE
+  - nl_NL
+  - no_NO
+  - or_IN
+  - pl_PL
+  - pt_BR
+  - pt_PT
+  - ro_RO
+  - ru_RU
+  - sk_SK
+  - sl_SI
+  - sq_AL
+  - sv_SE
+  - ta_IN
+  - th
+  - th_TH
+  - tl_PH
+  - tr_TR
+  - tw_GH
+  - uk_UA
+  - vi_VN
+  - zh_CN
+  - zh_TW
