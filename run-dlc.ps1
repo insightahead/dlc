@@ -28,7 +28,7 @@ if (Test-Path $env_file) {
     Get-Content $env_file | ForEach-Object {
         if ($_ -notmatch '^\s*#') {
             $key, $value = $_ -split '=', 2
-            $env:$key = $value
+            Set-Item -Path "Env:$key" -Value $value
         }
     }
 } else {
@@ -47,7 +47,6 @@ if ($args.Length -gt 0 -and $args[0] -eq "stop") {
     Pop-Location
     exit 0
 }
-
 
 ########## Start Docker ##########
 
