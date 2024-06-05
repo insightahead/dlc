@@ -18,6 +18,7 @@ services:
       - "${DLC_DATA_GENERATOR_HOST_PORT}:80"
     volumes:
       - dlc-generated-data:/dlc-generated-data/
+      - dlc-processed-data:/dlc-processed-data/
       - ./dlc-config:/dlc-data-generator/app/config/
 
 
