@@ -50,6 +50,8 @@ if ($args.Length -gt 0 -and $args[0] -eq "stop") {
 
 ########## Start Docker ##########
 
+
+# Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 Write-Host ""
 Write-Host "$blue_text`Starting Docker Compose$default_text"
 
