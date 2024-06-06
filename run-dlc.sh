@@ -14,7 +14,7 @@ PS4="$blue_text""${0}:${LINENO}: ""$default_text"
 
 ########## Dependency Check ##########
 if ! docker compose version >/dev/null 2>/dev/null; then
-  echo -e "$red_text""docker compose v2 not found! please install docker compose!""$default_text"
+  echo -e "$red_text""docker compose v2 not found! please install docker compose! or make sure Docker desktop is running""$default_text"
   exit 1
 fi
 
