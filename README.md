@@ -59,5 +59,3 @@ The application is composed of multiple services that run as Docker Compose serv
 4. **Troubleshooting:**
    - If you encounter any issues during startup, go to Docker Desktop and check the logs of the failing service.
    - If the issue persists, open an issue in the repository with the relevant details.
-
-By following these steps, you should be able to install and run the companion app smoothly.
